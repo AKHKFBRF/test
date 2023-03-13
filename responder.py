@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 
 # Set up the OpenAI API key and model name
-openai.api_key = "api_key"
+openai.api_key = "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"
 model_name = "curie:ft-personal-2023-03-12-06-42-12"
 
 # Create a form to get user inputs
